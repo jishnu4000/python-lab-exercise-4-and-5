@@ -1,0 +1,24 @@
+C:\Users\jishn\OneDrive\Documents\GitHub\python-lab-exercise-4-and-5>python question1.py 
+Name: John Doe, Age: 45, Specialization: Pulmonology
+Name: Jane Smith, Age: 28, Diagnosis: Bronchitis
+Name: Mary Jones, Age: 38, Department: Pediatrics
+
+C:\Users\jishn\OneDrive\Documents\GitHub\python-lab-exercise-4-and-5>python question2.py
+Number of words: 6
+
+Unexpected error in TextDataAnalyzer: Expected a string for text analysis
+Error in analyzing text data
+Unexpected error in TextDataAnalyzer: Expected a list of strings for text analysis
+Error in analyzing text data
+Concatenated string: str1 str2 str3 aaaaa
+
+Unexpected error in NumericDataAnalyzer: Expected a numeric value for analysis
+Error in analyzing numeric data
+Unexpected error in NumericDataAnalyzer: 'float' object cannot be interpreted as an integer
+Error in analyzing numeric data
+Sum of values: 165, Maximum value: 85, Minimum value: 4
+
+Unexpected error in NumericDataAnalyzer: Expected a list of numeric values for analysis
+Error in analyzing numeric data
+
+C:\Users\jishn\OneDrive\Documents\GitHub\python-lab-exercise-4-and-5>
